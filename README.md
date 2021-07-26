@@ -25,5 +25,3 @@
 - There are also some advanced courses in the above courses links for you to explore...
   
 <hr>
-  
-***Leave a Star if you liked the repo 🌟***
